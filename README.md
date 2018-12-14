@@ -1,17 +1,21 @@
 # Goal Zero Yeti with Wifi Wiki
 
-## NOTICE 12/14/18
+## Notice - 12/14/2018
 iOS 12.1.1 was released 12/5 which has updated Network Certificate settings that breaks the app. Yeti App 2.1.1 contains a fix and is in Apple App Store review. It will be released in the coming days.
+
+___
 
 ## Release Notes
 
 ### Yeti App v2.1.1 (from v2.1)
-##### iOS Release Date [PENDING]
-##### Android Release Date (N/A)
+* **iOS Release Date [PENDING]**
+* **Android Release Date (N/A)**
 * Fixes app compatibility issues with iOS 12.1.1
 
+___
+
 ### Yeti WiFi Firmware 0.7.2 (from 0.4.26)
-##### Release Date 12/13/2018
+* **Release Date 12/13/2018**
 * Delete mobile pair after Factory reset
   * Previously paired devices lose ability to control Yeti after Factory Reset
 * WiFi stores up to 5 WiFi networks
@@ -31,9 +35,11 @@ iOS 12.1.1 was released 12/5 which has updated Network Certificate settings that
   * Blinks while charging (used to be solid ON)
   * Solid ON when done charging (used to turn OFF)
 
+___
+
 ### Yeti App v2.1 (from v1.0)
-##### iOS Release Date 12/3/2018
-##### Android Release Date 12/3/2018
+* **iOS Release Date 12/3/2018**
+* **Android Release Date 12/3/2018**
 * Direct Connect - Take your Yeti off grid and continue to use the Yeti App
   * *Note: Direct Connect requires Yeti Firmware Update available in App Settings*
 * Help button added - Get help from anywhere in the app
