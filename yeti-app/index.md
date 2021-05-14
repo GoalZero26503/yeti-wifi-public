@@ -6,6 +6,10 @@ In iOS 14, Apple [introduced a security feature](https://support.apple.com/en-us
 
 <p align="center"><img src="../assets/images/ios-allow-local-network.png" width="300px" /></p>
 
+If you are still having trouble and you're not seeing the prompt. It's possible you selected "Don't Allow" when prompted before. You can go to your Phone Settings, scroll to the bottom where all the installed apps are listed and find the Goal Zero app. Ensure "Local Network" is allowed.
+
+<p align="center"><img src="../assets/images/ios-local-net-access.jpeg" width="300px" /></p>
+
 ### [12/14/2018 – iOS 12.1.1 incompatibility](#12142018--ios-1211-incompatibility)
 
 iOS 12.1.1 was released 12/5 and was incompatible with Yeti App 2.1. The fix was released 12/14/18 in Yeti App 2.1.1.
