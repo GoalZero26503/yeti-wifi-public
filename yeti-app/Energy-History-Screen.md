@@ -6,7 +6,7 @@ The Energy Usage History Screen provides energy usage in Watt-Hours (Wh) In and 
 
 ## [Support](#support)
 
-The **Energy Usage History** feature is available on the following Yeti models running firmware v1.5.0:
+The **Energy Usage History** feature is available on the following Yeti models running firmware v1.5.0 or newer:
 
 * Goal Zero Yeti 1500X
 * Goal Zero Yeti 3000X
@@ -35,7 +35,7 @@ Users can select from different data views on the History screen in the App.
 
 ### Why does it look like I have supplied more Energy In than Energy Out?
 
-It's actually entirely natural for Battery systems to require more power to be pumped in than power they can supply out due to various inefficiencies in the system. This is particularly notable if there is a constant load on the AC inverter as this requires constant conversion from DC to AC. Higher inefficiencies are expected at relatively small AC loads, i.e. 50-300W. The AC inverter in the Yeti 1500X, Yeti 3000X, and Yeti 6000X is more efficient at higher loads, i.e. 1500W+.
+It's natural for Battery systems to require more power to be supplied in than power they can supply out due to various inefficiencies in the system. This is particularly notable in systems containing a DC to AC inverter. If there is a constant load on the AC inverter, this requires constant conversion from DC to AC. Higher inefficiencies are expected at relatively small AC loads, i.e. 50-300W. The AC inverter in the Yeti 1500X, Yeti 3000X, and Yeti 6000X is more efficient at higher loads, i.e. the 600W-1500W range.
 
 ### Why don't I see any history data?
 
